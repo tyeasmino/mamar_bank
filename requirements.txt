@@ -168,9 +168,6 @@ python-multipart
 pytweening
 pytz
 PyWavelets
-pywin32
-pywin32-ctypes
-pywinpty
 PyYAML
 pyzmq
 qtconsole
