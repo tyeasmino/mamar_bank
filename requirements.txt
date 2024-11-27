@@ -82,12 +82,6 @@ jupyter-core
 jupyterlab-pygments
 jupyterlab-widgets
 keras
-keyring
-Kivy
-kivy-deps.angle
-kivy-deps.glew
-kivy-deps.sdl2
-Kivy-Garden
 kiwisolver
 libclang
 lxml
