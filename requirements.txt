@@ -141,7 +141,6 @@ selenium
 Send2Trash
 SimpleWebSocketServer
 six
-sklearn
 sniffio
 sortedcontainers
 soupsieve
