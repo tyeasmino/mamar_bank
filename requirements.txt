@@ -149,14 +149,6 @@ starlette
 statsmodels
 tablib
 tangled-up-in-unicode
-tensorboard
-tensorboard-data-server
-tensorboard-plugin-wit
-tensorflow
-tensorflow-estimator
-tensorflow-intel
-tensorflow-io-gcs-filesystem
-tensorflow-serving-api
 termcolor
 terminado
 testpath
